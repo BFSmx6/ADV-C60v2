@@ -97,7 +97,7 @@ transition: transform .2s;
 }
 
 img:hover {
-/* Project60- Usa la propiedad 'transform' para cambiar el tamaño de las imágenes cada vez que se pasa el mmouse.*/
+/* Project60- Usa la propiedad 'transform' para cambiar el tamaño de las imágenes cada vez que se pasa el mouse.*/
 transform: scale(0.9);
 }
 
